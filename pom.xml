@@ -117,10 +117,5 @@
     <scope>test</scope>
 </dependency>
 
-  	<dependency>
-  		<groupId>com</groupId>
-  		<artifactId>Spinco-Login</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
   </dependencies>
 </project>
